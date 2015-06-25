@@ -1,4 +1,4 @@
 # annotationTest
 アノテーションテスト
 
-java7用
+java8用動かない
